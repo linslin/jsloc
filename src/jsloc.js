@@ -4,7 +4,7 @@
  * @category  javascript-qa-tool
  * @package   jsloc
  * @author    Nils Gajsek <info@linslin.org>
- * @copyright 2014 Nils Gajsek <info@linslin.org>
+ * @copyright 2014-2015 Nils Gajsek <info@linslin.org>
  * @license   http://opensource.org/licenses/gpl-license.php GNU Public License
  * @version   0.0.1
  * @link      https://github.com/linslin
