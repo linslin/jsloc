@@ -35,7 +35,8 @@ var jsloc = (function () {
      * @param {string}
      */
     var options = {
-        'includeHtml': true
+        'includeHtml': true,
+        'excludes': []
     };
 
 
